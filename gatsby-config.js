@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "repunte_portfolio",
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
