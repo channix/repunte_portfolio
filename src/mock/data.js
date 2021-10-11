@@ -44,6 +44,16 @@ export const projectsData = [
     url: 'https://channix.github.io/patuti.github.io/',
     repo: 'https://github.com/channix/patuti.github.io', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project3.jpg',
+    title: 'Robofriends',
+    info: 'React Web Application',
+    info2: 'Robofriend is a web application that is made from React, it is a fully responsive web app that searches different kinds of friendly robots available in the datasets.',
+    url: 'https://channix.github.io/robofriends/',
+    repo: 'https://github.com/channix/robofriends', // if no repo, the button will not show up
+  },
+  
 ];
 
 // CONTACT DATA
